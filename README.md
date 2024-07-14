@@ -83,4 +83,10 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
+## <a name="features">📈 Future Changes in Mind</a>
+
+🚀 **Launch as a browser extension**: A modern and user-friendly interface, offering an intuitive experience for users.
+
+🎥 **Add a video of how the website works**: Users can input the URL of a lengthy article, and the web app utilizes AI to provide a concise summary of the article content.
+
 
