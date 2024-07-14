@@ -85,8 +85,8 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 ## <a name="features">📈 Future Changes in Mind</a>
 
-🚀 **Launch as a browser extension**: A modern and user-friendly interface, offering an intuitive experience for users.
+🚀 **Launch as a browser extension**: Users should be able to download it as a web browser extension.
 
-🎥 **Add a video of how the website works**: Users can input the URL of a lengthy article, and the web app utilizes AI to provide a concise summary of the article content.
+🎥 **Add a video of how the website works**: Add a video in the website showing the complete steps.
 
 
