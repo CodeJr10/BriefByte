@@ -22,6 +22,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
+5. 📈 [Future Changes](#changes).
 
 
 
@@ -83,7 +84,7 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="features">📈 Future Changes in Mind</a>
+## <a name="changes">📈 Future Changes in Mind</a>
 
 🚀 **Launch as a browser extension**: Users should be able to download it as a web browser extension.
 
