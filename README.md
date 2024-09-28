@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
     <h1 align="center">BriefByte</h1>
   <br />
      
@@ -89,5 +89,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 🚀 **Launch as a browser extension**: Users should be able to download it as a web browser extension.
 
 🎥 **Add a video of how the website works**: Add a video in the website showing the complete steps.
+
+Launch As a SaaS Platform 
 
 
